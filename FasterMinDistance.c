@@ -2,7 +2,7 @@
  * Id: 
  * NOT QUICKSORT
  *
- * Uses quick sort to sort the array elements from least to greatest and
+ * Uses *a worse version of insertion sort to sort the array elements from least to greatest and
  * subtracts the neighoring values. Compare these instead.
  * This version runs through theoretically two four loops rather than a nested 
  * for loop that runs as many times as the parent for loops requires.
