@@ -19,7 +19,7 @@ int power(int x, int n);
 
 int main(int argc, char *argv[])
 {
-   if(argc > 3)
+   if(argc != 3)
    {
       printf("wrong input\n");
       return 0;
